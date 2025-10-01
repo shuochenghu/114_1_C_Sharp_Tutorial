@@ -1,0 +1,26 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale_Price_Calculator.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale_Price_Calculator.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale_Price_Calculator.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale_Price_Calculator.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale_Price_Calculator.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale_Price_Calculator.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.csproj.GenerateResource.Cache

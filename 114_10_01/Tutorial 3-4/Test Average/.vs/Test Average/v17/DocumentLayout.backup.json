@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\Chapter 03\\Tutorial 3-4\\Test Average\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|c:\\users\\m303\\desktop\\chapter 03\\tutorial 3-4\\test average\\test average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|solutionrelative:test average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|c:\\users\\m303\\desktop\\chapter 03\\tutorial 3-4\\test average\\test average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|solutionrelative:test average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\Chapter 03\\Tutorial 3-4\\Test Average\\Test Average\\Form1.cs",
+              "RelativeDocumentMoniker": "Test Average\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\Chapter 03\\Tutorial 3-4\\Test Average\\Test Average\\Form1.cs",
+              "RelativeToolTip": "Test Average\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvx8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:08:18.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\Chapter 03\\Tutorial 3-4\\Test Average\\Test Average\\Form1.cs",
+              "RelativeDocumentMoniker": "Test Average\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\Chapter 03\\Tutorial 3-4\\Test Average\\Test Average\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Test Average\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:08:15.466Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
