@@ -1,0 +1,26 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\bin\Debug\Change Counter.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.csproj.GenerateResource.Cache

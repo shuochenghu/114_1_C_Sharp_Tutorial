@@ -1,0 +1,33 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\bin\Debug\Test Average.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\bin\Debug\Test Average.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-4\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.Cache
