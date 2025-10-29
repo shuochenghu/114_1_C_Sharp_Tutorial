@@ -1,0 +1,53 @@
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\bin\Debug\South America.exe
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\bin\Debug\South America.pdb
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South_America.Form1.resources
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.exe
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.pdb
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.exe
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.pdb
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\bin\Debug\South America.exe
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\bin\Debug\South America.pdb
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South_America.Form1.resources
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.exe
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\bin\Debug\South America.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\bin\Debug\South America.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South_America.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\bin\Debug\South America.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\bin\Debug\South America.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South_America.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\bin\Debug\South America.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\bin\Debug\South America.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South_America.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.csproj.GenerateResource.Cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\bin\Debug\South America.exe
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\bin\Debug\South America.pdb
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.csprojAssemblyReference.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South_America.Form1.resources
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.csproj.GenerateResource.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.csproj.CoreCompileInputs.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.exe
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-6\South America\South America\obj\x86\Debug\South America.pdb

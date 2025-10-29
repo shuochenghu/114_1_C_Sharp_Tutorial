@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Ch6 Tutorial\\Tutorial 6-1\\Lights\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE4CB7B-2064-4741-820F-61496B805DCA}|Lights\\Lights.csproj|c:\\users\\user\\source\\repos\\ch6 tutorial\\tutorial 6-1\\lights\\lights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE4CB7B-2064-4741-820F-61496B805DCA}|Lights\\Lights.csproj|solutionrelative:lights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Ch6 Tutorial\\Tutorial 6-1\\Lights\\Lights\\Form1.cs",
+              "RelativeDocumentMoniker": "Lights\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Ch6 Tutorial\\Tutorial 6-1\\Lights\\Lights\\Form1.cs",
+              "RelativeToolTip": "Lights\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:38:52.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

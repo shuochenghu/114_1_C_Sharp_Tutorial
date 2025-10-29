@@ -1,0 +1,35 @@
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\bin\Debug\Cards.exe
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\bin\Debug\Cards.pdb
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.Form1.resources
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.Properties.Resources.resources
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.exe
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.pdb
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.exe
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.pdb
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\bin\Debug\Cards.exe
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\bin\Debug\Cards.pdb
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.Form1.resources
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.Properties.Resources.resources
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\bin\Debug\Cards.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\bin\Debug\Cards.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\bin\Debug\Cards.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\bin\Debug\Cards.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-2\Cards\Cards\obj\x86\Debug\Cards.csproj.GenerateResource.Cache

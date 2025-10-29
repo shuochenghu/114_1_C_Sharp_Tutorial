@@ -1,0 +1,23 @@
+K:\Books\C#\Student Sample Programs\Chap06\Full Name\Full Name\bin\Debug\Full Name.exe
+K:\Books\C#\Student Sample Programs\Chap06\Full Name\Full Name\bin\Debug\Full Name.pdb
+K:\Books\C#\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full_Name.Form1.resources
+K:\Books\C#\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full_Name.Properties.Resources.resources
+K:\Books\C#\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full Name.exe
+K:\Books\C#\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full Name.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full Name.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full Name.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Full Name\Full Name\bin\Debug\Full Name.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Full Name\Full Name\bin\Debug\Full Name.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full_Name.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full_Name.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full Name.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full Name.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full Name.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Full Name\Full Name\bin\Debug\Full Name.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Full Name\Full Name\bin\Debug\Full Name.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full_Name.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full_Name.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Full Name\Full Name\obj\x86\Debug\Full Name.csproj.GenerateResource.Cache

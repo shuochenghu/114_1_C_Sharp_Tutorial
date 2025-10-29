@@ -1,0 +1,33 @@
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Form1.resources
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Properties.Resources.resources
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.exe
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin_Toss.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-8\Coin Toss\Coin Toss\obj\x86\Debug\Coin Toss.csproj.GenerateResource.Cache

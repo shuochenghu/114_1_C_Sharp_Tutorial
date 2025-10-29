@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git Repos\\113_1_C_Sharp_Tutorial\\Chapter 05\\Tutorial 5-4\\Friend File\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A40F9A-BD03-4C36-89F6-B171618EF998}|Friend File\\Friend File.csproj|e:\\git repos\\113_1_c_sharp_tutorial\\chapter 05\\tutorial 5-4\\friend file\\friend file\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A40F9A-BD03-4C36-89F6-B171618EF998}|Friend File\\Friend File.csproj|solutionrelative:friend file\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A40F9A-BD03-4C36-89F6-B171618EF998}|Friend File\\Friend File.csproj|E:\\Git Repos\\113_1_C_Sharp_Tutorial\\Chapter 05\\Tutorial 5-4\\Friend File\\friend file\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A40F9A-BD03-4C36-89F6-B171618EF998}|Friend File\\Friend File.csproj|solutionrelative:friend file\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A40F9A-BD03-4C36-89F6-B171618EF998}|Friend File\\Friend File.csproj|E:\\Git Repos\\113_1_C_Sharp_Tutorial\\Chapter 05\\Tutorial 5-4\\Friend File\\friend file\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6A40F9A-BD03-4C36-89F6-B171618EF998}|Friend File\\Friend File.csproj|solutionrelative:friend file\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Git Repos\\113_1_C_Sharp_Tutorial\\Chapter 05\\Tutorial 5-4\\Friend File\\Friend File\\Form1.cs",
+              "RelativeDocumentMoniker": "Friend File\\Form1.cs",
+              "ToolTip": "E:\\Git Repos\\113_1_C_Sharp_Tutorial\\Chapter 05\\Tutorial 5-4\\Friend File\\Friend File\\Form1.cs",
+              "RelativeToolTip": "Friend File\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:43:43.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Git Repos\\113_1_C_Sharp_Tutorial\\Chapter 05\\Tutorial 5-4\\Friend File\\Friend File\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Friend File\\Form1.Designer.cs",
+              "ToolTip": "E:\\Git Repos\\113_1_C_Sharp_Tutorial\\Chapter 05\\Tutorial 5-4\\Friend File\\Friend File\\Form1.Designer.cs",
+              "RelativeToolTip": "Friend File\\Form1.Designer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:43:45.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "E:\\Git Repos\\113_1_C_Sharp_Tutorial\\Chapter 05\\Tutorial 5-4\\Friend File\\Friend File\\Form1.cs",
+              "RelativeDocumentMoniker": "Friend File\\Form1.cs",
+              "ToolTip": "E:\\Git Repos\\113_1_C_Sharp_Tutorial\\Chapter 05\\Tutorial 5-4\\Friend File\\Friend File\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Friend File\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:43:39.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

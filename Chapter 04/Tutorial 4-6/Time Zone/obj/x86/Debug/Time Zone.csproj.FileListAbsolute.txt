@@ -1,0 +1,31 @@
+G:\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\bin\Debug\Time Zone.exe
+G:\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\bin\Debug\Time Zone.pdb
+G:\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Form1.resources
+G:\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Properties.Resources.resources
+G:\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.exe
+G:\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\bin\Debug\Time Zone.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\bin\Debug\Time Zone.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\bin\Debug\Time Zone.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\bin\Debug\Time Zone.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\bin\Debug\Time Zone.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\bin\Debug\Time Zone.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.csproj.GenerateResource.Cache

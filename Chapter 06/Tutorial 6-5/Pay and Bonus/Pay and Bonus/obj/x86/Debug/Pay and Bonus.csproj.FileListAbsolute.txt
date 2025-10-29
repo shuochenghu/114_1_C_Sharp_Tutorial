@@ -1,0 +1,31 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-x Pay and Bonus\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-x Pay and Bonus\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-x Pay and Bonus\Pay and Bonus\Pay and Bonus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-x Pay and Bonus\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-x Pay and Bonus\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-x Pay and Bonus\Pay and Bonus\Pay and Bonus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-x Pay and Bonus\Pay and Bonus\Pay and Bonus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-x Pay and Bonus\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-x Pay and Bonus\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.Cache

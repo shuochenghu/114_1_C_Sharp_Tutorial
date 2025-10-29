@@ -1,0 +1,49 @@
+G:\Books\C#\Student Sample Programs\Chap05\Friend File\Friend File\bin\Debug\Friend File.exe
+G:\Books\C#\Student Sample Programs\Chap05\Friend File\Friend File\bin\Debug\Friend File.pdb
+G:\Books\C#\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+G:\Books\C#\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+G:\Books\C#\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Books\C#\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+G:\Books\C#\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-4\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-4\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-4\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-4\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-4\Friend File\Friend File\bin\Debug\Friend File.exe
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-4\Friend File\Friend File\bin\Debug\Friend File.pdb
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-4\Friend File\Friend File\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-4\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-4\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-4\Friend File\Friend File\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-4\Friend File\Friend File\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.exe
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.pdb
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.exe.config
+E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.exe
+E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.pdb
+E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.AssemblyReference.cache
+E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.cache
+E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.CoreCompileInputs.cache
+E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+E:\Git Repos\113_1_C_Sharp_Tutorial\Chapter 05\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.pdb

@@ -1,0 +1,41 @@
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+G:\Books\C#\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.Cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.CoreCompileInputs.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 05\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb

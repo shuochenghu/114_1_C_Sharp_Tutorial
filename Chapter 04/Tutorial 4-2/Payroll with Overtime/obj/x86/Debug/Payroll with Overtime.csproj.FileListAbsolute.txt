@@ -1,0 +1,26 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 04\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csproj.GenerateResource.Cache

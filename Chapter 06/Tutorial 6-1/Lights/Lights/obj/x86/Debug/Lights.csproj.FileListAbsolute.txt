@@ -1,0 +1,33 @@
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\bin\Debug\Lights.exe
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\bin\Debug\Lights.pdb
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.Properties.Resources.resources
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.exe
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\bin\Debug\Lights.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\bin\Debug\Lights.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\bin\Debug\Lights.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\bin\Debug\Lights.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\Ch6 Tutorial\Tutorial 6-1\Lights\Lights\bin\Debug\Lights.exe.config
+C:\Users\User\source\repos\Ch6 Tutorial\Tutorial 6-1\Lights\Lights\bin\Debug\Lights.exe
+C:\Users\User\source\repos\Ch6 Tutorial\Tutorial 6-1\Lights\Lights\bin\Debug\Lights.pdb
+C:\Users\User\source\repos\Ch6 Tutorial\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ch6 Tutorial\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+C:\Users\User\source\repos\Ch6 Tutorial\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.Properties.Resources.resources
+C:\Users\User\source\repos\Ch6 Tutorial\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ch6 Tutorial\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ch6 Tutorial\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\User\source\repos\Ch6 Tutorial\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.pdb

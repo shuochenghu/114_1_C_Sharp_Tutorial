@@ -1,0 +1,33 @@
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.pdb
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+G:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+K:\Books\C#\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.GenerateResource.Cache

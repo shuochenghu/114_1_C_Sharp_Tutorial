@@ -1,0 +1,7 @@
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\bin\Debug\chp6_prob6.exe
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\bin\Debug\chp6_prob6.pdb
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_prob6.Form1.resources
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_prob6.Properties.Resources.resources
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_prob6.csproj.GenerateResource.Cache
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_prob6.exe
+C:\Users\Kabir\AppData\Local\Temporary Projects\chp6_prob6\obj\x86\Debug\chp6_prob6.pdb

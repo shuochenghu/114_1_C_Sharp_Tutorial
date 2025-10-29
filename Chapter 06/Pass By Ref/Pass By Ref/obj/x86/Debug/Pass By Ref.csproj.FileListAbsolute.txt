@@ -1,0 +1,27 @@
+K:\Books\C#\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\bin\Debug\Pass By Ref.exe
+K:\Books\C#\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\bin\Debug\Pass By Ref.pdb
+K:\Books\C#\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass_By_Ref.Form1.resources
+K:\Books\C#\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass_By_Ref.Properties.Resources.resources
+K:\Books\C#\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.exe
+K:\Books\C#\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.pdb
+G:\Books\C#\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.exe
+G:\Books\C#\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\bin\Debug\Pass By Ref.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\bin\Debug\Pass By Ref.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass_By_Ref.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass_By_Ref.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\bin\Debug\Pass By Ref.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\bin\Debug\Pass By Ref.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass_By_Ref.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass_By_Ref.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap06\Pass By Ref\Pass By Ref\obj\x86\Debug\Pass By Ref.csproj.GenerateResource.Cache
