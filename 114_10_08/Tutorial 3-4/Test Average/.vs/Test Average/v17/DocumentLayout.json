@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp_Tutorial\\Tutorial 3-4\\Test Average\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|c:\\users\\shu\\desktop\\113_1_c_sharp_tutorial\\tutorial 3-4\\test average\\test average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|solutionrelative:test average\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|c:\\users\\shu\\desktop\\113_1_c_sharp_tutorial\\tutorial 3-4\\test average\\test average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6BB78B-BFFC-444D-A720-4E1E05740F50}|Test Average\\Test Average.csproj|solutionrelative:test average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp_Tutorial\\Tutorial 3-4\\Test Average\\Test Average\\Form1.cs",
+              "RelativeDocumentMoniker": "Test Average\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp_Tutorial\\Tutorial 3-4\\Test Average\\Test Average\\Form1.cs",
+              "RelativeToolTip": "Test Average\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:00:39.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp_Tutorial\\Tutorial 3-4\\Test Average\\Test Average\\Program.cs",
+              "RelativeDocumentMoniker": "Test Average\\Program.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp_Tutorial\\Tutorial 3-4\\Test Average\\Test Average\\Program.cs",
+              "RelativeToolTip": "Test Average\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:00:33.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
