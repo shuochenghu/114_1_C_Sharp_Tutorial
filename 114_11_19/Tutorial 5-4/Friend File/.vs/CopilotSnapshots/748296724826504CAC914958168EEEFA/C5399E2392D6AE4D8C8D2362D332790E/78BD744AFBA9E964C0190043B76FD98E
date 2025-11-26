@@ -1,0 +1,121 @@
+﻿namespace Friend_File
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// 必要的設計工具變數。
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// 清除任何使用中的資源。
+        /// </summary>
+        /// <param name="disposing">如為 true，表示受控資源應被釋放；否則為 false。</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// 此為設計工具所需的方法。請勿以程式碼編輯器直接修改此方法內容，
+        /// 若需調整介面屬性請在設計工具中進行。
+        /// 以下包含元件初始化、屬性設定與版面配置。
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.promptLabel = new System.Windows.Forms.Label();
+            this.nameTextBox = new System.Windows.Forms.TextBox();
+            this.writeNameButton = new System.Windows.Forms.Button();
+            this.exitButton = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // promptLabel
+            // 
+            // 提示使用者輸入朋友名稱的標籤。使用 18pt 字型以確保可讀性。
+            this.promptLabel.AutoSize = true;
+            this.promptLabel.Location = new System.Drawing.Point(12, 18);
+            this.promptLabel.Location = new System.Drawing.Point(12, 18);
+            this.promptLabel.Location = new System.Drawing.Point(12, 18);
+            this.promptLabel.Location = new System.Drawing.Point(12, 18);
+            this.promptLabel.Location = new System.Drawing.Point(12, 18);
+            this.promptLabel.Name = "promptLabel";
+            this.promptLabel.Size = new System.Drawing.Size(200, 29);
+            this.promptLabel.TabIndex = 0;
+            // 將顯示文字改為繁體中文（提示文字）
+            this.promptLabel.Text = "輸入朋友的名字：";
+            // 設定字型為 Microsoft Sans Serif，大小 18，樣式為一般
+            this.promptLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            // 
+            // nameTextBox
+            // 
+            // 讓使用者輸入朋友名稱的輸入框。字型也設定為 18pt 以配合標籤顯示大小。
+            this.nameTextBox.Location = new System.Drawing.Point(127, 16);
+            this.nameTextBox.Name = "nameTextBox";
+            this.nameTextBox.Size = new System.Drawing.Size(153, 20);
+            this.nameTextBox.TabIndex = 1;
+            // TextBox 的內容預設為空白，僅設定字型以利使用者輸入時顯示一致性
+            this.nameTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            // 
+            // writeNameButton
+            // 
+            // 按鈕：將使用者輸入的名字寫入檔案或其他儲存機制（事件處理於 Form1.cs 中實作）。
+            this.writeNameButton.Location = new System.Drawing.Point(70, 56);
+            this.writeNameButton.Name = "writeNameButton";
+            this.writeNameButton.Size = new System.Drawing.Size(75, 23);
+            this.writeNameButton.TabIndex = 2;
+            // 將按鈕文字改為繁體中文
+            this.writeNameButton.Text = "寫名字";
+            this.writeNameButton.UseVisualStyleBackColor = true;
+            // 將按鈕字型設定為 18pt，以便與其他元件視覺一致
+            this.writeNameButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.writeNameButton.Click += new System.EventHandler(this.writeNameButton_Click);
+            // 
+            // exitButton
+            // 
+            // 按鈕：關閉表單（離開應用程式或回到上一個畫面）。事件處理於 Form1.cs 中實作。
+            this.exitButton.Location = new System.Drawing.Point(151, 56);
+            this.exitButton.Name = "exitButton";
+            this.exitButton.Size = new System.Drawing.Size(75, 23);
+            this.exitButton.TabIndex = 3;
+            // 將按鈕文字改為繁體中文
+            this.exitButton.Text = "離開";
+            this.exitButton.UseVisualStyleBackColor = true;
+            // 將按鈕字型設定為 18pt
+            this.exitButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
+            // 
+            // Form1
+            // 
+            // 設定表單的自動縮放、大小與預設字型為 18pt，以確保表單內所有元件在視覺上一致。
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(296, 96);
+            this.Controls.Add(this.exitButton);
+            this.Controls.Add(this.writeNameButton);
+            this.Controls.Add(this.nameTextBox);
+            this.Controls.Add(this.promptLabel);
+            this.Name = "Form1";
+            // 將表單標題改為繁體中文
+            this.Text = "朋友檔案";
+            // 設定整個表單的預設字型為 18pt（若個別元件未設定字型，將使用此字型）
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label promptLabel;
+        private System.Windows.Forms.TextBox nameTextBox;
+        private System.Windows.Forms.Button writeNameButton;
+        private System.Windows.Forms.Button exitButton;
+    }
+}
+
