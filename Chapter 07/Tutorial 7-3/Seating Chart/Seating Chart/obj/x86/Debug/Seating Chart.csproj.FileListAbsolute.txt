@@ -1,0 +1,26 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\bin\Debug\Seating Chart.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\bin\Debug\Seating Chart.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\bin\Debug\Seating Chart.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\bin\Debug\Seating Chart.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\bin\Debug\Seating Chart.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\bin\Debug\Seating Chart.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-3\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.csproj.GenerateResource.Cache

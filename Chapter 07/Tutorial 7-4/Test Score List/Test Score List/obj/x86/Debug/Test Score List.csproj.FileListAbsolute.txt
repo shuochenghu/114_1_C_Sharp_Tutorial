@@ -1,0 +1,42 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.GenerateResource.Cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.exe.config
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.exe
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\bin\Debug\Test Score List.pdb
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.AssemblyReference.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.SuggestedBindingRedirects.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Form1.resources
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test_Score_List.Properties.Resources.resources
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.GenerateResource.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.csproj.CoreCompileInputs.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.exe
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 07\Tutorial 7-4\Test Score List\Test Score List\obj\x86\Debug\Test Score List.pdb

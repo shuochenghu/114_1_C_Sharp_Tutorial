@@ -1,0 +1,11 @@
+K:\Books\C#\Student Sample Programs\Chap07\Display Elements\Display Elements\bin\Debug\Display Elements.exe
+K:\Books\C#\Student Sample Programs\Chap07\Display Elements\Display Elements\bin\Debug\Display Elements.pdb
+K:\Books\C#\Student Sample Programs\Chap07\Display Elements\Display Elements\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Books\C#\Student Sample Programs\Chap07\Display Elements\Display Elements\obj\x86\Debug\Display_Elements.Form1.resources
+K:\Books\C#\Student Sample Programs\Chap07\Display Elements\Display Elements\obj\x86\Debug\Display_Elements.Properties.Resources.resources
+K:\Books\C#\Student Sample Programs\Chap07\Display Elements\Display Elements\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Books\C#\Student Sample Programs\Chap07\Display Elements\Display Elements\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Books\C#\Student Sample Programs\Chap07\Display Elements\Display Elements\obj\x86\Debug\Display Elements.exe
+K:\Books\C#\Student Sample Programs\Chap07\Display Elements\Display Elements\obj\x86\Debug\Display Elements.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Display Elements\Display Elements\obj\x86\Debug\Display Elements.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Display Elements\Display Elements\obj\x86\Debug\Display Elements.pdb

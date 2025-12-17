@@ -1,0 +1,27 @@
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\bin\Debug\American Colonies.exe.config
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\bin\Debug\American Colonies.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\bin\Debug\American Colonies.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American_Colonies.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American_Colonies.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap07\American Colonies\American Colonies\bin\Debug\American Colonies.exe.config
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap07\American Colonies\American Colonies\bin\Debug\American Colonies.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap07\American Colonies\American Colonies\bin\Debug\American Colonies.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap07\American Colonies\American Colonies\obj\Debug\American_Colonies.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap07\American Colonies\American Colonies\obj\Debug\American_Colonies.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs - 2012\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\bin\Debug\American Colonies.exe.config
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\bin\Debug\American Colonies.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\bin\Debug\American Colonies.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American_Colonies.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American_Colonies.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\American Colonies\American Colonies\obj\Debug\American Colonies.csproj.GenerateResource.Cache

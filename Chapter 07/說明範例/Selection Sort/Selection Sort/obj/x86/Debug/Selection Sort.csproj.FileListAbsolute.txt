@@ -1,0 +1,25 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Selection Sort\Selection Sort\bin\Debug\Selection Sort.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection_Sort.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection_Sort.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection Sort.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection Sort.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection Sort.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection Sort.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\bin\Debug\Selection Sort.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection Sort.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection_Sort.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection_Sort.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection Sort.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection Sort.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection Sort.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\bin\Debug\Selection Sort.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection Sort.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection_Sort.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection_Sort.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Selection Sort\Selection Sort\obj\x86\Debug\Selection Sort.csproj.GenerateResource.Cache

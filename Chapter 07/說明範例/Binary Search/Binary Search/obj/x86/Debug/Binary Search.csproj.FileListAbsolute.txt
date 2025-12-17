@@ -1,0 +1,9 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Binary Search\Binary Search\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Binary Search\Binary Search\obj\x86\Debug\Binary_Search.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Binary Search\Binary Search\obj\x86\Debug\Binary_Search.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Binary Search\Binary Search\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Binary Search\Binary Search\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Binary Search\Binary Search\bin\Debug\Binary Search.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Binary Search\Binary Search\bin\Debug\Binary Search.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Binary Search\Binary Search\obj\x86\Debug\Binary Search.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Binary Search\Binary Search\obj\x86\Debug\Binary Search.pdb

@@ -1,0 +1,16 @@
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Change Array 1\Change Array 1\bin\Debug\Change Array 1.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Change Array 1\Change Array 1\bin\Debug\Change Array 1.pdb
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\Change_Array_1.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\Change_Array_1.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\Change Array 1.exe
+C:\Users\Tony\Documents\Books\C#\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\Change Array 1.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\Change Array 1.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\Change Array 1.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Change Array 1\Change Array 1\bin\Debug\Change Array 1.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Change Array 1\Change Array 1\bin\Debug\Change Array 1.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\Change_Array_1.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\Change_Array_1.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Change Array 1\Change Array 1\obj\x86\Debug\Change Array 1.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\bin\Debug\Seating Chart.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\bin\Debug\Seating Chart.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\obj\x86\Debug\Seating_Chart.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Student Sample Programs\Chap07\Seating Chart\Seating Chart\obj\x86\Debug\Seating Chart.pdb
